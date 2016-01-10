@@ -1,6 +1,25 @@
-I, [2016-01-06T22:06:04.323692 #1764]  INFO -- : Test at 2016-01-06 22:06:04 -0600
-I, [2016-01-06T22:06:21.923220 #1768]  INFO -- : Test at 2016-01-06 22:06:21 -0600
-I, [2016-01-06T22:13:08.054314 #1783]  INFO -- : Sent text to: #<Device:0x007fab2badde40 @name="Maggie", @tele="+19136697670">
-I, [2016-01-06T22:16:39.357638 #1804]  INFO -- : Sent text to: #<Device:0x007fe49a0ad828 @name="Maggie", @tele="+19136697670">
-I, [2016-01-06T22:27:51.475767 #1829]  INFO -- : Sent text to: #<Device:0x007fe650bad770 @name="Maggie", @tele="+19136697670">
-I, [2016-01-06T22:33:22.696146 #1865]  INFO -- : Sent text to: #<Device:0x007fba5c25a120 @name="Maggie", @tele="+19136697670">
+W, [2016-01-10T00:35:47.700811 #2065]  WARN -- : Couldn't connect to localhost: no implicit conversion of nil into String
+W, [2016-01-10T00:36:43.133427 #2071]  WARN -- : Couldn't connect to localhost: no implicit conversion of nil into String
+W, [2016-01-10T00:37:05.512600 #2076]  WARN -- : Couldn't connect to localhost: no implicit conversion of nil into String
+W, [2016-01-10T00:41:41.613491 #2111]  WARN -- : Couldn't connect to localhost: no implicit conversion of nil into String
+W, [2016-01-10T00:43:12.820079 #2118]  WARN -- : Couldn't connect to localhost: undefined local variable or method `data' for main:Object
+W, [2016-01-10T00:45:34.398121 #2133]  WARN -- : Couldn't connect to localhost: no implicit conversion of nil into String
+W, [2016-01-10T00:48:58.719333 #2153]  WARN -- : No data from DB
+W, [2016-01-10T00:50:25.252342 #2160]  WARN -- : No data from DB
+W, [2016-01-10T00:50:42.995084 #2165]  WARN -- : No data from DB
+I, [2016-01-10T01:00:20.198011 #2264]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: 
+I, [2016-01-10T01:00:20.198765 #2264]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO:  was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:05:20.934011 #2292]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:05:20.934690 #2292]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:05:56.199474 #2298]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:05:56.200212 #2298]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:06:31.999369 #2305]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:06:32.000076 #2305]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:09:43.017269 #2317]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:09:43.017992 #2317]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:09:58.989127 #2321]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:09:59.774170 #2321]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:16:38.217076 #2330]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: content
+I, [2016-01-10T01:16:38.617519 #2330]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: content was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:17:23.483386 #2337]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Have a great day!!
+I, [2016-01-10T01:17:23.954083 #2337]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Have a great day!! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}

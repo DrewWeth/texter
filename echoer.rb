@@ -54,7 +54,7 @@ end
 
 def query_db()
 	begin
-		uri = URI("http://localhost:3000/messages/sample")
+		uri = URI("http://texterdb.herokuapp.com/messages/sample")
 		res = Net::HTTP.post_form(uri, Hash.new)
 		return res.body
 	rescue Exception => e

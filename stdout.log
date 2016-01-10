@@ -23,3 +23,9 @@ I, [2016-01-10T01:16:38.217076 #2330]  INFO -- : Sent text to: {:@name=>"Drew", 
 I, [2016-01-10T01:16:38.617519 #2330]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: content was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
 I, [2016-01-10T01:17:23.483386 #2337]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Have a great day!!
 I, [2016-01-10T01:17:23.954083 #2337]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Have a great day!! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:30:01.239179 #2576]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:30:01.655892 #2576]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:30:40.397322 #2583]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Does this work?
+I, [2016-01-10T01:30:40.936234 #2583]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Does this work? was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
+I, [2016-01-10T01:30:49.461464 #2584]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: Good morning!
+I, [2016-01-10T01:30:49.904753 #2584]  INFO -- : Sent text to: {:@name=>"Drew", :@tele=>"+13147759588"} with content: INFO: Good morning! was sent to {:@name=>"Drew", :@tele=>"+13147759588"}
